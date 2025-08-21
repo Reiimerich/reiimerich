@@ -16,9 +16,10 @@ I'm a passionate game developer with 2+ years of experience creating engaging ga
 - Mentoring junior developers
 
 ### 📫 Let's Connect
-- 💼 [Portfolio]([your-portfolio-link](https://reiimerich.github.io/Online-Portfolio/))
+- 💼 [Portfolio]((https://reiimerich.github.io/Online-Portfolio/))
 - 📧 josephbermudez1337@gmail.com
-- 💼 [LinkedIn]([your-linkedin](https://www.linkedin.com/in/josephbermudezg/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/josephbermudezg/))
+- 🎮 [Itch.io](https://reiimeru.itch.io)
 
 ### 📊 GitHub Stats
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
