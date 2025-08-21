@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jose Bermudez 👋
 
-<!--
-**Reiimerich/reiimerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Unity Game Developer
 
-Here are some ideas to get you started:
+I'm a passionate game developer with 2+ years of experience creating engaging gameplay systems and optimized mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Game Engines:** Unity, Unreal Engine
+- **Programming:** C#, Java
+- **Tools:** Git, Visual Studio, Unity Profiler
+- **Specialties:** Gameplay Programming, Performance Optimization, VR Development
+
+### 🎯 Current Focus
+- Developing innovative gameplay mechanics
+- VR performance optimization
+- Mentoring junior developers
+
+### 📫 Let's Connect
+- 💼 [Portfolio]([your-portfolio-link](https://reiimerich.github.io/Online-Portfolio/))
+- 📧 josephbermudez1337@gmail.com
+- 💼 [LinkedIn]([your-linkedin](https://www.linkedin.com/in/josephbermudezg/))
+
+### 📊 GitHub Stats
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiimeriche&show_icons=true&theme=dark)
