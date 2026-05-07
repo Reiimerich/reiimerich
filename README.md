@@ -18,6 +18,3 @@ I'm a passionate game developer with 2+ years of experience creating engaging ga
 ### 📫 Let's Connect
 - 📧 josephbermudez1337@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/josephbermudezg/)
-
-### 📊 GitHub Stats
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
